@@ -1,9 +1,44 @@
-DOMAIN,lite.cn2gias.uk
-DOMAIN,playz.mjji.de
-DOMAIN,hkb-emby.aliz.work
+# youno 1条
 DOMAIN-SUFFIX,younoyes.com
-DOMAIN-SUFFIX,sfcj.org
+# Hohai 1条
+DOMAIN-SUFFIX,hohai.eu.org
+# 佬友记 3条
+DOMAIN-SUFFIX,605305.xyz
+DOMAIN,lyj.ysz.dpdns.org
+DOMAIN,ofo.033388.xyz
+# 追新服 1条
+DOMAIN-SUFFIX,yusen.cc.cd
+# OkEmby 1条
+DOMAIN-SUFFIX,okemby.org
+# NyaMedia 1条
+DOMAIN-SUFFIX,bangumi.ca
+# 乐蛙 2条
+DOMAIN,eb.atrct.cn
+DOMAIN,emby.taotu.ink
+# 风月阁 6条
+DOMAIN,emby.60442173.xyz
+DOMAIN,mwp.bydsb.cc.cd
+DOMAIN,mwp.cnmbyd.de5.net
+DOMAIN,mwp.cnmbyd.xyz
+DOMAIN,mwp.fw1.de5.net
+DOMAIN,mwp.sbcnm.us.ci
+# NoxEmby 1条
+DOMAIN-SUFFIX,inemby.us.ci
+# 银河列车 2条
+DOMAIN,ciallo.party
+DOMAIN,yuanshen.help
+# AI 1条
+DOMAIN-SUFFIX,arkhamimp.qzz.io
+# 69云 1条
 DOMAIN-SUFFIX,69yun69.com
-DOMAIN-SUFFIX,emby.bangumi.ca
-DOMAIN-SUFFIX,nubebelle.vip
-DOMAIN-SUFFIX,nubebelle.cn
+# emos 2条
+DOMAIN,video.emos.best
+DOMAIN,emos.767873.xyz
+# 帝服 1条
+DOMAIN,emby.di0.uk
+# 步兵营地 1条
+DOMAIN,bb.emby.edu.kg
+# 营养快线 1条
+DOMAIN,yykx.top
+# 小姨子 1条
+DOMAIN,gy.emby.yun
