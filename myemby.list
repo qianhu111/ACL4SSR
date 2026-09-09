@@ -1,64 +1,31 @@
-# yuchu 1条
-DOMAIN-KEYWORD,yusen
-DOMAIN-SUFFIX,yusen6.ccwu.cc
-
-# youno 1条
 DOMAIN-SUFFIX,younoyes.com
-
-# Hohai 1条
 DOMAIN-SUFFIX,hohai.eu.org
-
-# 佬友记 3条
 DOMAIN-SUFFIX,605305.xyz
-DOMAIN,lyj.ysz.dpdns.org
-DOMAIN,ofo.033388.xyz
-
-# 追新服 1条
+DOMAIN-SUFFIX,ysz.dpdns.org
+DOMAIN-SUFFIX,033388.xyz
 DOMAIN-SUFFIX,yusen.cc.cd
-
-# OkEmby 1条
 DOMAIN-SUFFIX,okemby.org
-
-# NyaMedia 1条
 DOMAIN-SUFFIX,bangumi.ca
-
-# 乐蛙 2条
-DOMAIN,eb.atrct.cn
-DOMAIN,emby.taotu.ink
-
-# 风月阁 6条
-DOMAIN,emby.60442173.xyz
-DOMAIN,mwp.bydsb.cc.cd
-DOMAIN,mwp.cnmbyd.de5.net
-DOMAIN,mwp.cnmbyd.xyz
-DOMAIN,mwp.fw1.de5.net
-DOMAIN,mwp.sbcnm.us.ci
-
-# NoxEmby 1条
+DOMAIN-SUFFIX,atrct.cn
+DOMAIN-SUFFIX,taotu.ink
+DOMAIN-SUFFIX,60442173.xyz
+DOMAIN-SUFFIX,bydsb.cc.cd
+DOMAIN-SUFFIX,cnmbyd.de5.net
+DOMAIN-SUFFIX,cnmbyd.xyz
+DOMAIN-SUFFIX,fw1.de5.net
+DOMAIN-SUFFIX,sbcnm.us.ci
 DOMAIN-SUFFIX,inemby.us.ci
-
-# 银河列车 2条
-DOMAIN,ciallo.party
-DOMAIN,yuanshen.help
-
-# AI 1条
+DOMAIN-SUFFIX,ciallo.party
+DOMAIN-SUFFIX,yuanshen.help
 DOMAIN-SUFFIX,arkhamimp.qzz.io
-
-# 69云 1条
 DOMAIN-SUFFIX,69yun69.com
-
-# emos 2条
-DOMAIN,video.emos.best
-DOMAIN,emos.767873.xyz
-
-# 帝服 1条
-DOMAIN,emby.di0.uk
-
-# 步兵营地 1条
-DOMAIN,bb.emby.edu.kg
-
-# 营养快线 1条
-DOMAIN,yykx.top
-
-# 小姨子 1条
-DOMAIN,gy.emby.yun
+DOMAIN-SUFFIX,emos.best
+DOMAIN-SUFFIX,767873.xyz
+DOMAIN-SUFFIX,di0.uk
+DOMAIN-SUFFIX,emby.edu.kg
+DOMAIN-SUFFIX,yykx.top
+DOMAIN-SUFFIX,emby.yun
+DOMAIN-SUFFIX,yusen6.ccwu.cc
+DOMAIN-SUFFIX,yusen.us.ci
+DOMAIN-SUFFIX,yusen.cyou
+DOMAIN-SUFFIX,yusen.cc.cd
